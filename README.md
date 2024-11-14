@@ -4,12 +4,12 @@ This repository contains the reports and prelab notes for various communication 
 
 ## Experiments:
 
- Experiment #1: Normal Amplitude Modulation and Demodulation
- Experiment #2: Double-side and Single-side Band Modulation
- Experiment #4: Frequency Modulation
- Experiment #6: Pulse Amplitude Modulation (Sampling)
- Experiment #10: Amplitude Shift Keying (ASK)
- Experiment #11: Frequency and Phase Shift Keying
+ 1. Experiment #1: Normal Amplitude Modulation and Demodulation
+ 2. Experiment #2: Double-side and Single-side Band Modulation
+ 3. Experiment #4: Frequency Modulation
+ 4. Experiment #6: Pulse Amplitude Modulation (Sampling)
+ 5. Experiment #10: Amplitude Shift Keying (ASK)
+ 6. Experiment #11: Frequency and Phase Shift Keying
 
 ## Report Format
 Each experiment should be documented in a report that includes the following sections:
